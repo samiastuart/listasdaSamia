@@ -1,0 +1,19 @@
+<resources>
+    <!--    APLICATIVO-->
+    <string name="app_name">ListasDaSam</string>
+
+    <!--    ABAS do aplicativo-->
+    <string name="tab_atual">ATUAL</string>
+    <string name="tab_executado">EXECUTADO</string>
+    <string name="tab_completo">COMPLETO</string>
+
+    <!--    Inserção do item-->
+    <string name="inserir_item">Insira o item e clique em +</string>
+    <string name="aba_atual">ATUAL</string>
+    <string name="aba_exec">EXECUTADA</string>
+    <string name="aba_completa">COMPLETA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
