@@ -1,0 +1,47 @@
+<resources>
+    <!--    APLICATIVO-->
+    <string name="app_name">ListasDaSam</string>
+
+    <!--    ABAS do aplicativo-->
+    <string name="tab_atual">ATUAL</string>
+    <string name="tab_realizada">REALIZADO</string>
+    <string name="tab_tudo">TUDO</string>
+
+    <!--    Inserção do item-->
+    <string name="inserir_item">Insira o item e clique em +</string>
+<!--    <string name="aba_atual">ATUAL</string>-->
+<!--    <string name="aba_realizada">REALIZADO</string>-->
+<!--    <string name="aba_tudo">TUDO</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sugestoes">ATIVIDADES DOMÉSTICAS,COMPRAS,MANUTENÇÃO DE MOTORHOME</string>
+    
+<!--    <string-array name="lista_ssugerida">-->
+<!--        <item name="ATIVID">-->
+<!--        Arejar cômodos da casa,Dedetizar a casa,Descongelar geladeira,Fazer manutenção na casa,Lavar caixa dágua,Lavar cozinha,Lavar lixeiras,Lavar o carro,Lavar quintal,Lavar roupas,Limpar a cozinha,Limpar aspirador de pó,Limpar cortinas,Limpar despensa,Limpar estofados,Limpar exaustor,Limpar interruptores,Limpar janelas/vidros e espelhos,Limpar lustres,Limpar máquina de lavar,Limpar o chão dos cômodos,Limpar o fogão,Limpar o forno,Limpar os banheiros,Limpar pratas/metais,Limpar ralos e sifões,Limpar secadora de roupas,Limpar tapetes,Lustrar os móveis,Pagar contas,Passar roupas,Pegar correspondências,Regar plantas,Retirar sacos de lixo,Tirar o pó dos equipamentos eletrônicos,Tirar o pó dos móveis,Trocar filtro do ar condicionado, Trocar roupa de cama,Virar colchão da cama-->
+<!--        </item>-->
+
+<!--        <item name="COMPRAS">-->
+<!--        Abacate,Abacaxi,Abobrinha,Absorvente,Acetona,Açúcar,Água mineral,Água sanitária,Alface,Algodão,Alho,Amaciante de carne,Amaciante,Arroz,Atum lata,Aveia,Azeite,Azeitonas,Bacon,Bananas,Batata,Berinjela,Beterraba,Bicarbonato de sódio,Bolachas,Café,Canela,Carne,Catchup,Cebola,Cenoura,Cerveja,Chá,Cheiro verde,chester,Chocolate pó,Chuchu,Coco ralado,Coentro,Cominho,Condicionador,Copos descart.,Couve flor,Cravo da Índia,Creme de barbear,Creme dental,Creme leite,Curry,Desinfetante,Desodorante,Desodorizador de Ambiente,Detergente,Ervas finas,Ervilha verde,Ervilhas lata,Escova dentes,Esmalte,Esponjas,Estragão,Eva doce,Extrato tomate,Farinha de mandioca,Farinha rosca,Farinha trigo,Feijão,Fermento pó,Fósforos,Frango,Frango,Frios,Gelatina pó,Gengibre,Goiabada,Grão de bico,Guardanapos,Hambúrguer,Hidratante,Inseticida,Iogurte,Isqueiro,Kiwi,Lâmina de barbear,Lâmpadas,Laranja,Lava louça pó,Leite de  coco,Leite condensado,Leite,Lentilha,Limão,Limpa vidro,Lingüiça,Lombo canadense,Louro,Lustra móvel,Lysoform,Maçã,Macarrão instantâneo,Maionese,Maizena,Mamão,Manjericão,Manteiga,Maracujá,Margarina,Massa bolo,Massas,Melão,Milho pipoca,Milho verde,Molho tomate,Mortadela,Mostarda,Noz-moscada,Óleo,Orégano,Ovo de codorna,Ovos,Palha aço,Palitos,Palmito,Pano limpeza,Pão de  forma,Papel alumínio,Papel filme,Papel higiênico,Papel manteiga,Papel toalha,Páprica,Patês,Peixe,Pepino,Pêras,Peru,Pilhas,Pimenta,Pimentão,Polpa de frutas,Potes descartáveis,Prendedor de roupas,Presunto cozido,Presunto cru,Protetor solar,Queijo lanche,Queijo ralado,Queijos,Ração para animais,Refrigerante,Repolho,Requeijão,Rúcula,Sabão pedra,Sabão pó,Sabonete,Sachet para banheiro,Sal,Salaminho,Salgadinhos,Salsicha,Sapóleo,Sardinha em lata,Shampoo,Sorvete,Suco frutas,Tomate,Trigo,Uvas,Vagem,Vassoura,Rodo,Veja,Velas,Vinagre-->
+<!--        </item>-->
+
+<!--        <item name="MANUTE">-->
+<!--        Esquentar o boiler,Fechar gás,Fechar todas as janelas e aberturas,Fechar todas as trancas,Guardar utensílios,Lavar louças,Lavar o motorhome,Limpar caixa de águas cinzas,Limpar caixa de águas escuras,Limpar o motorhome em geral,Trocar gás por bateria ou energia elétrica dos aparelhos,Verificar cofre ao entrar ou sair do motorhome,Verificar mosquiteiros,Verificar trincos das janelas-->
+<!--        </item>-->
+<!--    </string-array>-->
+
+    <string name="ATIVID">
+        Arejar cômodos da casa,Dedetizar a casa,Descongelar geladeira,Fazer manutenção na casa,Lavar caixa dágua,Lavar cozinha,Lavar lixeiras,Lavar o carro,Lavar quintal,Lavar roupas,Limpar a cozinha,Limpar aspirador de pó,Limpar cortinas,Limpar despensa,Limpar estofados,Limpar exaustor,Limpar interruptores,Limpar janelas/vidros e espelhos,Limpar lustres,Limpar máquina de lavar,Limpar o chão dos cômodos,Limpar o fogão,Limpar o forno,Limpar os banheiros,Limpar pratas/metais,Limpar ralos e sifões,Limpar secadora de roupas,Limpar tapetes,Lustrar os móveis,Pagar contas,Passar roupas,Pegar correspondências,Regar plantas,Retirar sacos de lixo,Tirar o pó dos equipamentos eletrônicos,Tirar o pó dos móveis,Trocar filtro do ar condicionado,Trocar roupa de cama,Virar colchão da cama
+    </string>
+
+    <string name="COMPRAS">
+        Abacate,Abacaxi,Abobrinha,Absorvente,Acetona,Açúcar,Água mineral,Água sanitária,Alface,Algodão,Alho,Amaciante de carne,Amaciante,Arroz,Atum lata,Aveia,Azeite,Azeitonas,Bacon,Bananas,Batata,Berinjela,Beterraba,Bicarbonato de sódio,Bolachas,Café,Canela,Carne,Catchup,Cebola,Cenoura,Cerveja,Chá,Cheiro verde,chester,Chocolate pó,Chuchu,Coco ralado,Coentro,Cominho,Condicionador,Copos descartáveis,Couve flor,Cravo da Índia,Creme de barbear,Creme dental,Creme leite,Curry,Desinfetante,Desodorante,Desodorizador de Ambiente,Detergente,Ervas finas,Ervilha verde,Ervilhas lata,Escova dentes,Esmalte,Esponjas,Estragão,Eva doce,Extrato tomate,Farinha de mandioca,Farinha rosca,Farinha trigo,Feijão,Fermento pó,Fósforos,Frango,Frango,Frios,Gelatina pó,Gengibre,Goiabada,Grão de bico,Guardanapos,Hambúrguer,Hidratante,Inseticida,Iogurte,Isqueiro,Kiwi,Lâmina de barbear,Lâmpadas,Laranja,Lava louça pó,Leite de  coco,Leite condensado,Leite,Lentilha,Limão,Limpa vidro,Lingüiça,Lombo canadense,Louro,Lustra móvel,Lysoform,Maçã,Macarrão instantâneo,Maionese,Maizena,Mamão,Manjericão,Manteiga,Maracujá,Margarina,Massa bolo,Massas,Melão,Milho pipoca,Milho verde,Molho tomate,Mortadela,Mostarda,Noz-moscada,Óleo,Orégano,Ovo de codorna,Ovos,Palha aço,Palitos,Palmito,Pano limpeza,Pão de  forma,Papel alumínio,Papel filme,Papel higiênico,Papel manteiga,Papel toalha,Páprica,Patês,Peixe,Pepino,Pêras,Peru,Pilhas,Pimenta,Pimentão,Polpa de frutas,Potes descartáveis,Prendedor de roupas,Presunto cozido,Presunto cru,Protetor solar,Queijo lanche,Queijo ralado,Queijos,Ração para animais,Refrigerante,Repolho,Requeijão,Rúcula,Sabão pedra,Sabão pó,Sabonete,Sachet para banheiro,Sal,Salaminho,Salgadinhos,Salsicha,Sapóleo,Sardinha em lata,Shampoo,Sorvete,Suco frutas,Tomate,Trigo,Uvas,Vagem,Vassoura,Rodo,Veja,Velas,Vinagre
+    </string>
+
+    <string name="MANUTE">
+        Esquentar o boiler,Fechar gás,Fechar todas as janelas e aberturas,Fechar todas as trancas,Guardar utensílios,Lavar louças,Lavar o motorhome,Limpar caixa de águas cinzas,Limpar caixa de águas escuras,Limpar o motorhome em geral,Trocar gás por bateria ou energia elétrica dos aparelhos,Verificar cofre ao entrar ou sair do motorhome,Verificar mosquiteiros,Verificar trincos das janelas
+    </string>
+
+</resources>
